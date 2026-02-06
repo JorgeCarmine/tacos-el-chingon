@@ -1,7 +1,8 @@
 namespace: default
 
 flags:
-  - key: dark_mode_2
-    name: Dark Mode 2
-    description: "Habilita el modo oscuro en el frontend"
+  dark_mode:
+    name: Dark Mode
+    description: Habilita el modo oscuro en el frontend
     enabled: false
+
