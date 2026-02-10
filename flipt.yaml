@@ -1,3 +1,4 @@
+version: "1.2" 
 namespace: default
 
 flags:
@@ -5,3 +6,4 @@ flags:
     name: Dark Mode
     description: "Habilita el modo oscuro en el frontend"
     enabled: false
+    type: VARIANT_FLAG
