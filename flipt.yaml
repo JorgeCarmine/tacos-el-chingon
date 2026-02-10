@@ -1,11 +1,9 @@
 version: "1.2.0"
 namespace: default
 
-environments:
-  development:
-    flags:
-      - key: dark_mode
-        name: Dark Mode
-        description: "Habilita el modo oscuro en el frontend"
-        type: VARIANT_FLAG
-        enabled: true
+flags:
+  - key: dark_mode
+    name: Dark Mode
+    description: "Habilita el modo oscuro"
+    type: BOOLEAN_FLAG
+    enabled: true
