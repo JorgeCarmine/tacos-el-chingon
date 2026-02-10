@@ -2,7 +2,7 @@ version: "1.2.0"
 namespace: default
 
 environments:
-  asdasdasdasd:
+  development:
     flags:
       - key: dark_mode
         name: Dark Mode
