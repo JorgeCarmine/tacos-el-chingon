@@ -1,2 +1,5 @@
 version: "1.0.0"
 namespace: webapp
+flags:
+  my-flag:
+    enabled: true
