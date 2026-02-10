@@ -1,8 +1,0 @@
-namespace: default
-
-flags:
-  dark_mode:
-    name: Dark Mode
-    description: Habilita el modo oscuro en el frontend
-    enabled: false
-
