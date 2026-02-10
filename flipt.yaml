@@ -1,5 +1,4 @@
-version: "1.0.0"
-namespace: webapp
-flags:
-  my-flag:
-    enabled: true
+version: "1.2.0"
+namespace: default
+
+flags: []
