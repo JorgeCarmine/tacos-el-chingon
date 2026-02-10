@@ -1,0 +1,8 @@
+version: "1.2.0"
+namespace: webapp
+flags:
+  - key: dark_mode
+    name: "Dark Mode"
+    description: "Habilita modo oscuro"
+    type: BOOLEAN_FLAG
+    enabled: true
