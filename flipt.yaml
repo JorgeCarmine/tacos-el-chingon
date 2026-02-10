@@ -1,12 +1,2 @@
-version: "1.0"
-
-namespaces:
-  - key: webapp
-    name: Web App
-    description: WebApp flags
-
-    flags:
-      - key: dark_mode
-        name: Dark Mode
-        type: BOOLEAN_FLAG
-        enabled: true
+version: "1.0.0"
+namespace: webapp
