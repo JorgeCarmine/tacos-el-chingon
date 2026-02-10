@@ -5,5 +5,5 @@ flags:
   - key: dark_mode
     name: Dark Mode
     description: "Habilita el modo oscuro"
-    type: VARIANT_FLAG
+    type: BOOLEAN_FLAG
     enabled: true
