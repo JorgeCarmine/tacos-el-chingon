@@ -14,9 +14,8 @@ flags:
         light: false
         system: false
 
-
-  - key: dark_mode
-    name: Dark Mode
-    description: Habilita modo oscuro
-    type: BOOLEAN_FLAG
-    enabled: true
+    - key: dark_mode
+      name: Dark Mode
+      description: Habilita modo oscuro
+      type: BOOLEAN_FLAG
+      enabled: true
