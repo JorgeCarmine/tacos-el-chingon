@@ -9,6 +9,7 @@ flags:
       description: Select the theme value
       enabled: false
       metadata:
+        christmas: false
         dark: true
         light: false
         system: false
