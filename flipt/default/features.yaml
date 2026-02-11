@@ -1,0 +1,14 @@
+version: "1.5"
+namespace:
+    key: default
+    name: Default
+flags:
+    - key: theme
+      name: theme
+      type: VARIANT_FLAG_TYPE
+      description: Select the theme value
+      enabled: false
+      metadata:
+        dark: true
+        light: false
+        system: false
